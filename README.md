@@ -1,8 +1,8 @@
-# from couchdb import Server
-# localhost:5984/_utils/
-# docker-compose stop
-# sudo netstat -lpn |grep :5984
-# sudo kill -9 2058
+### from couchdb import Server
+### localhost:5984/_utils/
+### docker-compose stop
+### sudo netstat -lpn |grep :5984
+### sudo kill -9 2058
 ## Launch Topology
 >python3 topoChange.py       
 >
